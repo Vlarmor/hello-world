@@ -1,2 +1,5 @@
 # hello-world
-practice repository
+
+Hello there!
+
+It's a beautiful day!
